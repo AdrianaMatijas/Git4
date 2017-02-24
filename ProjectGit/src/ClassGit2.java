@@ -5,6 +5,7 @@ public class ClassGit2 {
 		System.out.println("test git 2");
 
 		
+		
 	}
 
 }
