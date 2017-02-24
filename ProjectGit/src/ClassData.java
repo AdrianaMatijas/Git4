@@ -7,6 +7,8 @@ public class ClassData {
 	
 	public void count(){
 		z = x+y;
+		z = x-y;
+		
 	}
 
 }
